@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: /swiftini/marketguerrilla
+  repo: swiftini/marketguerrilla
   branch: master 
   
 media_folder: "images/uploads"
