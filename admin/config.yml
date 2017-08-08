@@ -2,3 +2,4 @@ backend:
   name: github
   repo: https://github.com/swiftini/marketguerrilla
   branch: master 
+  media_folder: "/images/uploads"
